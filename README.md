@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD8EB,45:A960EE,100:FF5CF4&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
@@ -42,7 +42,7 @@ const Ankit Das = {
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
-| **Fullstack Developer** | ILM World | Jun 2026 – Present | 🌐 Remote |
+| **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Present | 🌐 Remote |
 
 **Key Contributions at ILM World:**
 
@@ -50,36 +50,39 @@ const Ankit Das = {
 - 🔗 Developed backend logic and REST APIs using **Node.js & Express.js**
 - 🗄️ Worked on integrating frontend with backend services and APIs
 - 🤝 Collaborated with the team on real-world full stack projects, gaining hands-on industry experience
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
+<div align="center">
+
+### 🧑‍💻 Languages
+
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-**Web / Frontend**
-<br/>
+### 🎨 Web / Frontend
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-**Backend**
-<br/>
+### ⚙️ Backend
+
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 
-**Dev Tools**
-<br/>
+### 🧰 Dev Tools
+
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dev%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -112,4 +115,4 @@ const Ankit Das = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD8EB,45:A960EE,100:FF5CF4&height=120&section=footer&animation=twinkling" width="100%"/>
