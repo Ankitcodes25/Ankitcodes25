@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
@@ -10,8 +10,8 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-A960EE?style=for-the-badge&logo=github&logoColor=white)
 
+<a href="mailto:ankitdas0042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ankitcodes25&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitdas0042@gmail.com)
 
 </div>
 
@@ -42,7 +42,7 @@ const Ankit Das = {
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
-| **Fullstack Developer** | LearnILM World | Jun 2026 – Present | 🌐 Remote |
+| **Fullstack Developer** | ILM World | Jun 2026 – Present | 🌐 Remote |
 
 **Key Contributions at ILM World:**
 
@@ -50,8 +50,6 @@ const Ankit Das = {
 - 🔗 Developed backend logic and REST APIs using **Node.js & Express.js**
 - 🗄️ Worked on integrating frontend with backend services and APIs
 - 🤝 Collaborated with the team on real-world full stack projects, gaining hands-on industry experience
-
-> *Edit these bullets to match your actual day-to-day work — these are starting suggestions based on your stack.*
 
 ---
 
