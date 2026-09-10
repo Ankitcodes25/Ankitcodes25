@@ -20,11 +20,11 @@
 ## 🧭 Who I Am
 
 ```typescript
-const ankitDas = {
+const Ankit Das = {
   title: "Full Stack Developer | CSE Student",
   stack: {
     languages: ["C", "C++", "Python", "Java"],
-    web: ["HTML", "CSS", "JavaScript", "TypeScript (React/TSX)"],
+    web: ["HTML", "CSS", "JavaScript", "TypeScript"],
     frontend: ["React.js"],
     backend: ["Node.js", "Express.js"],
     tools: ["Visual Studio Code", "Dev C++", "MS Office"],
@@ -32,7 +32,7 @@ const ankitDas = {
   launchedProjects: [],
   certifications: [],
   status: "Open to work",
-  openTo: ["Full Stack Development roles", "Internships", "Collaborations"],
+  openTo: ["Full Stack Development roles", "Internships"],
 };
 ```
 
