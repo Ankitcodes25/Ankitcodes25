@@ -90,8 +90,8 @@ const Ankit Das = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=A960EE&title_color=A960EE&icon_color=A960EE&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=A960EE&title_color=A960EE&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=A960EE&title_color=A960EE&icon_color=A960EE&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=A960EE&title_color=A960EE&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="48%"/> -->
 
 <br/>
 
@@ -99,11 +99,11 @@ const Ankit Das = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ankitcodes25&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Ankitcodes25&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/> -->
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitcodes25&theme=tokyo-night&hide_border=true&color=A960EE&line=A960EE&point=ffffff&area=true" alt="Contribution Graph" width="90%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitcodes25&theme=tokyo-night&hide_border=true&color=A960EE&line=A960EE&point=ffffff&area=true" alt="Contribution Graph" width="90%"/> -->
 
 </div>
 
