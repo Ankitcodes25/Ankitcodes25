@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD8EB,45:A960EE,100:FF5CF4&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
@@ -115,4 +115,4 @@ const Ankit Das = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD8EB,45:A960EE,100:FF5CF4&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
