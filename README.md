@@ -3,15 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A960EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B26A89&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-A960EE?style=for-the-badge&logo=github&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-B26A89?style=for-the-badge&logo=github&logoColor=white)
 
 <a href="mailto:ankitdas0042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Ankitcodes25&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ankitcodes25&label=Profile+Views&color=B26A89&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -37,14 +37,14 @@ const Ankit Das = {
 ---
 
 ## 💼 Experience
-
+  
 ### 🏢 Internship
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
 | **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Present | 🌐 Remote |
 
-**Key Contributions at ILM World:**
+**Key Contributions at LearnILM World:** 
 
 - 🎨 Built and styled responsive UI components using **React.js**
 - 🔗 Developed backend logic and REST APIs using **Node.js & Express.js**
