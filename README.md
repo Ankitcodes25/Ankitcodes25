@@ -42,10 +42,12 @@ const Ankit Das = {
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
-| **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Present | 🌐 Remote |
+| **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Sept 2026 | 🌐 Remote |
+| **Fullstack Developer + QA** | [LearnILM World](https://www.learnilmworld.com/) | Oct 2026 – present | 🌐 Remote |
+
 
 **Key Contributions at LearnILM World:** 
-
+- 🧑‍💼 Developed and implemented an HRMS for managing employee operations and workflows
 - 🎨 Built and styled responsive UI components using **React.js**
 - 🔗 Developed backend logic and REST APIs using **Node.js & Express.js**
 - 🗄️ Worked on integrating frontend with backend services and APIs
