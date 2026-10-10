@@ -42,8 +42,9 @@ const Ankit Das = {
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
-| **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Sept 2026 | 🌐 Remote |
 | **Fullstack Developer + QA** | [LearnILM World](https://www.learnilmworld.com/) | Oct 2026 – present | 🌐 Remote |
+| **Fullstack Developer** | [LearnILM World](https://www.learnilmworld.com/) | Jun 2026 – Sept 2026 | 🌐 Remote |
+
 
 
 **Key Contributions at LearnILM World:** 
