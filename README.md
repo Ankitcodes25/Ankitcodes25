@@ -101,24 +101,57 @@ const Ankit Das = {
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=A960EE&title_color=A960EE&icon_color=A960EE&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=A960EE&title_color=A960EE&text_color=c9d1d9&hide_border=false" alt="Top Languages" width="48%"/> -->
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=B26A89&title_color=B26A89&icon_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=495"
+        alt="GitHub Stats"
+        width="100%"
+        height="200"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+     
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=B26A89&title_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=495&langs_count=5&custom_title=Most%20Used%20Languages"
+  alt="Most Used Languages"
+  width="495"
+/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com?user=Ankitcodes25&theme=tokyonight&border=B26A89&fire=B26A89&ring=B26A89&currStreakLabel=B26A89"
+        alt="GitHub Streak"
+        width="495"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Ankitcodes25&theme=tokyonight&border=A960EE&fire=A960EE&ring=A960EE&currStreakLabel=A960EE" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=Ankitcodes25&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/> -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Ankitcodes25&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7"
+  alt="GitHub Trophies"
+  width="95%"
+/>
 
 <br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitcodes25&theme=tokyo-night&hide_border=true&color=A960EE&line=A960EE&point=ffffff&area=true" alt="Contribution Graph" width="90%"/> -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitcodes25&theme=tokyo-night&hide_border=true&color=B26A89&line=B26A89&point=ffffff&area=true"
+  alt="Contribution Graph"
+  width="95%"
+/>
 
 </div>
 
@@ -131,10 +164,3 @@ const Ankit Das = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-
-
-1st image dekho waha pe mongo db add karo fir express taaki mern aaye 
-about me , tech stack inme tailwind add karo 
-ai tools add karo claude chatgpt opencode
-tools mei git git hub add karo
