@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D38312,100:A83279&height=200&section=header&text=Ankit%20Das&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B26A89&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CSE+Student;MongoDB+%7C+React.js+%7C+Node.js+%7C+Express.js;C%2B%2B+%7C+Python+%7C+Java" alt="Typing SVG" />
@@ -54,6 +54,28 @@ const Ankit Das = {
 - 🔗 Developed backend logic and REST APIs using **Node.js & Express.js**
 - 🗄️ Worked on integrating frontend with backend services and APIs
 - 🤝 Collaborated with the team on real-world full stack projects, gaining hands-on industry experience
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Arcadia
+
+> A full-stack browser games platform where players take on the **Arcadion AI**, earn XP and climb the leaderboard.
+
+-  **Games:** a library of classic games, playable against the Arcadion AI, online friends or offline friends
+-  **XP & levels:** wins against the Arcadion AI earn XP, levels and badge tiers
+-  **Leaderboard & profiles:** global and per-game rankings, match history and public player profiles
+-  **Auth & security:** email/password and Google sign-in, password reset and account deletion
+-  **Privacy & personalization:** custom avatars and usernames, with profile and leaderboard visibility controls
+
+<a href="https://github.com/Ankitcodes25/REPO_NAME"><img src="https://img.shields.io/badge/Source_Code-181717?logo=github&logoColor=white" alt="Source Code" height="16"/></a>
+<img src="https://img.shields.io/badge/AI_Opponent-8A2BE2" alt="AI Opponent" height="16"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="16"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="16"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="16"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="16"/>
+<img src="https://img.shields.io/badge/Google_Sign--In-4285F4?logo=google&logoColor=white" alt="Google Sign-In" height="16"/>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -110,19 +132,17 @@ const Ankit Das = {
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=B26A89&title_color=B26A89&icon_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=495"
+        src="https://github-readme-stats.vercel.app/api?username=Ankitcodes25&show_icons=true&theme=tokyonight&border_color=B26A89&title_color=B26A89&icon_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=450&line_height=20"
         alt="GitHub Stats"
         width="100%"
-        height="200"
       />
     </td>
     <td width="50%" align="center" valign="middle">
-     
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=B26A89&title_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=495&langs_count=5&custom_title=Most%20Used%20Languages"
-  alt="Most Used Languages"
-  width="495"
-/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitcodes25&layout=compact&theme=tokyonight&border_color=B26A89&title_color=B26A89&text_color=c9d1d9&hide_border=false&card_width=450&langs_count=5&custom_title=Most%20Used%20Languages"
+        alt="Most Used Languages"
+        width="100%"
+      />
     </td>
   </tr>
   <tr>
@@ -136,23 +156,6 @@ const Ankit Das = {
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Ankitcodes25&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7"
-  alt="GitHub Trophies"
-  width="95%"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitcodes25&theme=tokyo-night&hide_border=true&color=B26A89&line=B26A89&point=ffffff&area=true"
-  alt="Contribution Graph"
-  width="95%"
-/>
-
 </div>
 
 ---
@@ -163,4 +166,4 @@ const Ankit Das = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D38312,100:A83279&height=120&section=footer&animation=twinkling" width="100%"/>
