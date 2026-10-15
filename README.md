@@ -68,7 +68,7 @@ const Ankit Das = {
 -  **Auth & security:** email/password and Google sign-in, password reset and account deletion
 -  **Privacy & personalization:** custom avatars and usernames, with profile and leaderboard visibility controls
 
-<a href="https://github.com/Ankitcodes25/REPO_NAME"><img src="https://img.shields.io/badge/Source_Code-181717?logo=github&logoColor=white" alt="Source Code" height="16"/></a>
+<a href="https://github.com/Ankitcodes25/Arcadia2"><img src="https://img.shields.io/badge/Source_Code-181717?logo=github&logoColor=white" alt="Source Code" height="16"/></a>
 <img src="https://img.shields.io/badge/AI_Opponent-8A2BE2" alt="AI Opponent" height="16"/>
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="16"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="16"/>
